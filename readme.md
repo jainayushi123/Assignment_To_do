@@ -7,7 +7,7 @@ python -m venv .venv
 
 pip install -r requirements.txt
 
-create
+created two environment files
 .env.dev
 .env.prod
 
